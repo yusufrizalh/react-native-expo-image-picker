@@ -3,7 +3,7 @@ import { StyleSheet, Text, View, TouchableOpacity, Image } from 'react-native';
 import * as ImagePicker from 'expo-image-picker';
 import * as Sharing from 'expo-sharing';
 
-import AssetExample from './components/AssetExample'; 
+import AssetExample from '../components/AssetExample'; 
 
 export default function App() {
 
